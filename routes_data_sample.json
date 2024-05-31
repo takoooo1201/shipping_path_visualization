@@ -1,0 +1,66 @@
+[
+    {
+        "year": "2022",
+        "month": "01",
+        "startPort": "台中港",
+        "endPort": "上海港(CNSHA)",
+        "weight": 7163358926.831487,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "01",
+        "startPort": "基隆港",
+        "endPort": "香港港(HKHKG)",
+        "weight": 1632497689.67558,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "01",
+        "startPort": "花蓮港",
+        "endPort": "大阪港(JPOSA)",
+        "weight": 1076181010.0,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "01",
+        "startPort": "高雄港",
+        "endPort": "釜山港(KRPUS)",
+        "weight": 12290375607.454054,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "02",
+        "startPort": "台中港",
+        "endPort": "上海港(CNSHA)",
+        "weight": 4484980100.83561,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "02",
+        "startPort": "基隆港",
+        "endPort": "香港港(HKHKG)",
+        "weight": 1562774748.897169,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "02",
+        "startPort": "花蓮港",
+        "endPort": "大阪港(JPOSA)",
+        "weight": 29890168.0,
+        "color": "red"
+    },
+    {
+        "year": "2022",
+        "month": "02",
+        "startPort": "高雄港",
+        "endPort": "釜山港(KRPUS)",
+        "weight": 9297395976.994,
+        "color": "red"
+    }
+]

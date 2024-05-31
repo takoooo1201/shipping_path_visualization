@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shipping Routes Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+    <style>
+        #map { height: 600px; }
+        .filter-container {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+        .route-label {
+            /* background: white; */
+            padding: 2px 50px;
+            border-radius: 3px;
+            box-shadow: 0 0 2px rgba(0,0,0,0.5);
+            /* white-space: nowrap; */
+        }
+        .info-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="filter-container">
+        <h4>Top 4 Routes</h4>
+        <div id="topRoutes"></div>
+    </div>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // Port coordinates
+        const portCoordinates = {
+            "花蓮港": [23.59, 121.38],
+            "高雄港": [22.601000849686717, 120.28816669147928],
+            "基隆港": [25.0949, 121.2129],
+            "台中港": [24.295370392115554, 120.51683471369381],
+            "上海港": [31.2304, 121.4737],
+            "大阪港": [34.6937, 135.5023],
+            "香港港": [22.3193, 114.1694],
+            "釜山港": [35.1796, 129.0756]
+        };
+
+        const routesData = [
+            { startPort: "花蓮港", endPort: "上海港", weight: 4.188083e+09, color: "blue" },
+            { startPort: "花蓮港", endPort: "大阪港", weight: 1.616726e+09, color: "green" },
+            { startPort: "花蓮港", endPort: "香港港", weight: 3.402939e+09, color: "red" },
+            { startPort: "花蓮港", endPort: "釜山港", weight: 3.205600e+09, color: "yellow" },
+            { startPort: "高雄港", endPort: "上海港", weight: 82159293163, color: "blue" },//
+            { startPort: "高雄港", endPort: "大阪港", weight: 2.952898e+10, color: "green" },
+            { startPort: "高雄港", endPort: "香港港", weight: 88529639151, color: "red" },//
+            { startPort: "高雄港", endPort: "釜山港", weight: 41015821810, color: "black" },//
+            { startPort: "基隆港", endPort: "上海港", weight: 1.195188e+10, color: "blue" },
+            { startPort: "基隆港", endPort: "大阪港", weight: 3.715303e+09, color: "green" },
+            { startPort: "基隆港", endPort: "香港港", weight: 1.489592e+10, color: "red" },
+            { startPort: "基隆港", endPort: "釜山港", weight: 5.611034e+09, color: "yellow" },
+            { startPort: "台中港", endPort: "上海港", weight: 1.195188e+10, color: "blue" },
+            { startPort: "台中港", endPort: "大阪港", weight: 1.767760e+10, color: "green" },
+            { startPort: "台中港", endPort: "香港港", weight: 44994881543, color: "green" },//
+            { startPort: "台中港", endPort: "釜山港", weight: 2.461794e+10, color: "yellow" },
+        ];
+
+        const map = L.map('map').setView([23.59, 121.38], 5);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        function createLine(start, end, weight, color) {
+            console.log(`Creating line from ${start} to ${end} with weight ${weight} and color ${color}`);
+            const line = L.polyline([start, end], { color: color, weight: 2 }).addTo(map);
+            return { line };
+        }
+
+        const sortedRoutes = routesData.sort((a, b) => b.weight - a.weight).slice(0, 4);
+
+        document.getElementById('topRoutes').innerHTML = sortedRoutes.map(route => 
+            `<p style="color: ${route.color};">${route.startPort} - ${route.endPort}: ${route.weight} tons</p>`
+        ).join('');
+
+        sortedRoutes.forEach(route => {
+            const start = portCoordinates[route.startPort];
+            const end = portCoordinates[route.endPort];
+            if (start && end) {
+                createLine(start, end, route.weight, route.color);
+            } else {
+                console.error(`Invalid coordinates for route: ${route.startPort} to ${route.endPort}`);
+            }
+        });
+    </script>
+</body>
+</html>

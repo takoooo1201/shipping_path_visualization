@@ -1,0 +1,3058 @@
+[
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 159407369.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 131909594.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 154107428.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 218207513.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 289283106.6109,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 562673110.05666,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 172936758.451,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 226851565.157,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2179238486.55942,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3646151435.4126,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1793596888.174,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2237158472.649,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 936498094.464067,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1661358429.6037,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 699029387.3560001,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 903150930.781,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 229103636.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 41104318.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 74281000.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 261559159.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 410731882.5467,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 388657002.249,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 98695527.0206,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 251346321.236,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2328820850.0943,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 1832008363.1078,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 544190171.0511999,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1389917995.0121,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1450545720.1568,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 787955528.995246,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 424205622.2171,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Apr",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1168174124.0145001,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 133173642.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 117862826.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 56420704.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 72401240.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 883285396.413308,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 1112861509.1999462,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 449728739.5469,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 729249313.8207,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3140906142.31057,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3888245914.2366,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1797987254.8374,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2682897763.0873003,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1674302931.6041,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1980828773.1727,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 718721930.9156001,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1049983902.518,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 7730072.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 4094216.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 682000.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 512000.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 367847438.216854,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 531821194.6279,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 92360306.6064,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 118162026.3697,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 4135607291.893044,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4219438088.1451,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1456467839.7099998,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1530777107.3149,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 3608521181.4543,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2664037586.83894,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 1655248090.93936,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Aug",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1797255109.1757,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 449220634.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 376290585.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 122508000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 117134000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 470363399.162217,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 623454722.646665,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 111537432.87889999,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 133570429.5882,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3898065452.9775,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4127412217.805433,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1194234957.7762802,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 914251800.0795,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2987719927.8799,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 3272876155.8698063,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 839314500.8903,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 784050217.0592,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 6667928.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 9665010.2,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 2839550.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 2989658.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 671698331.91712,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 807233620.956143,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 219400778.669,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 300324518.2052,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3542199123.5482,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3624358594.5485,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1353696554.4979,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1485908208.2341,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2786963993.8238997,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2407536210.2028003,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 1264598875.2499998,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Dec",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1335916082.9168,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 7850168.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 10400000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 6320000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 5320000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 563570700.561692,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 613421013.12144,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 149644589.5333,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 236138445.7235,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3297801774.2774997,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3185022909.5176997,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1295979735.4048,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1518591557.1232,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1639477047.1271,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1590099069.595,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 593460403.19368,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 661943580.9759,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 469794327.66,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 70220102.6,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 133570000.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 266640311.47,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 582750346.8345,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 550044297.380792,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 135086351.50620002,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 239651620.20859998,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 4314743216.5135,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3425739763.9864,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 877624084.25748,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1833992358.106,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1797320184.908,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1377571791.6428,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 381624088.09610003,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Feb",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 704445050.6675,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 418625000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 372034510.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 47912500.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 237609000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 530753772.5558,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 703413562.0747,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 133566110.626,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 264764244.36180001,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3998865788.5021,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4693611274.099235,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1186332694.1722,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2411565849.7687,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2560002963.075,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2532188850.2591,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 615749012.8368,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1455418101.0057,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 227314268.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 226055620.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 135430372.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 268392568.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 288986110.770584,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 461755258.629,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 125485023.128,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 214401948.75800002,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 1688596134.3632998,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 2704223792.1541,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 791752282.1291,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1160212359.3803,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1110846757.331,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1435507886.726,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 572103592.9668,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jan",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 904648358.7840999,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 415402099.21000004,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 341185268.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 134630547.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 472099839.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 420028078.454215,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 604986523.2202,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 89428673.937,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 124280757.9023,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3817147698.9198,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4732668786.9578,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1106282324.6427,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 3171333228.8419,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1792228493.1319,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2100992909.23902,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 420705544.2132,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1154111366.254,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 1405048.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 5003086.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 700562.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 300562.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 424183441.1624,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 487481567.488248,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 166968654.200248,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 183393965.4522,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2483057524.5629997,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 2463318550.212952,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 839804804.903,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 965860297.6122,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1162665132.011,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1256405894.221844,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 439066174.3606,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jul",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 502890102.0013,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 178380490.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 263193125.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 87254420.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 257238250.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 363665559.31030697,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 544811004.742074,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 66885481.29249,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 120598494.97479999,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2962048603.9751997,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3967585810.85775,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 783247999.6249,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1557812499.8087,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1594236236.2805,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2149796614.3342,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 557242937.542,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1164790652.5942,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 296436062.8,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 216411954.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 179767298.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 179754655.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 452720178.6873,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 661569543.740436,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 116884527.2876,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 139281141.5266,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3769184200.0011,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4153749303.90377,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1427179894.0473,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1529648277.5888,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1569162440.2975,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1670545354.0688,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 587102749.2152,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Jun",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 645111082.6572,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 292223924.2,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 211185357.84,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 124964838.2,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 166757908.8,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 619984513.155622,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 679627947.907083,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 135900764.17146,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 221618739.729765,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3746991163.6836,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3793704452.7278,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1086030695.7549999,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1392100127.6069999,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1607568670.2080998,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1525945247.6284,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 379027299.76500005,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 478734506.8435,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 54771202.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 18071040.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 40462046.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 45365260.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 669440398.858369,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 769057898.693833,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 247174221.041734,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 315054426.21776897,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 5070637950.047,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4655175328.6493,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 2087280511.3871999,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2779331857.183,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2570359502.318,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2098820610.8269,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 1039426623.0230999,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Mar",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1317682913.728,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 273455512.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 348991293.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 165883000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 344498714.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 292257993.333228,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 520663715.434785,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 132674734.1777,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 268656598.66042,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2185794551.7725,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3613665671.2753,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1086446556.4968,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2160857675.8634,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 929109888.5858,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1505824241.4520001,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 488092310.14599997,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 813797181.0645,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 64106.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 13474.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 23998.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 17756.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 749445508.0597279,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 769752337.8573,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 202757534.06800002,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 282514619.20732,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 4426264207.5784,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4111912818.0004,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1320585783.1432002,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1555941368.711,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2657549436.7605,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2085499272.3439999,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 810644234.6647,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "May",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1056100493.8298,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 444648360.266,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 439974641.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 118075000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 286175000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 640412228.88665,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 763830889.081302,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 138060727.003,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 244515814.6599,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 4799107373.1252,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4490136789.49615,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1198860402.91615,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2082135580.7662,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2146624967.4098,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2145761731.5509,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 517722318.1893,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 991708263.8912,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 4115252.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 3300630.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 1530000.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 290000.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 464630771.890822,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 576960172.76882,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 112588933.1075,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 110022120.9863,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 4455568962.9305,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3487516086.0494,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1958637715.6016,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1320683980.7174,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 3251611899.671,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1917671195.957,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 1807110092.5781999,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Nov",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 936669139.199,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 1885830.4,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 1505632.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 1976.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 471159859.8796,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 537649461.4616,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 174580734.5625,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 183455933.34600002,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2771780366.2948003,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 2745607785.2382,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1123229931.4189,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1275851551.908,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1430895564.5375,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1516211448.996,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 547429714.9626,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 784691098.2771,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 5588948.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 9840.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 1020.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 1221020.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 514267452.63280797,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 487454717.601696,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 140430167.5099,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 367544868.2194,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3329580710.6482,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3296795906.3479,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1061646456.1894001,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 2086466525.8033998,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2358888642.071,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1369631662.0498,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 672248501.5193,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Oct",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 2194536603.0656,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 108000190.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 189000000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 27200000.0,
+        "color": "blue"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 347195229.08,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 482891340.090793,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 93951495.173,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 79926019.6782,
+        "color": "green"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 3317593847.4969997,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 4361229462.4876995,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 1208435877.8359,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 863706279.8820001,
+        "color": "yellow"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 1366784594.215,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 1835259444.25593,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 415127974.4925,
+        "color": "red"
+    },
+    {
+        "year": "22",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 354332275.714,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "CNSHA",
+        "weight": 2818431.152,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "HKHKG",
+        "weight": 5456512.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "JPOSA",
+        "weight": 2160216.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWHUN",
+        "endPort": "KRPUS",
+        "weight": 1115216.0,
+        "color": "blue"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "CNSHA",
+        "weight": 463215227.1054,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "HKHKG",
+        "weight": 653846640.902231,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "JPOSA",
+        "weight": 208574937.9887,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKEL",
+        "endPort": "KRPUS",
+        "weight": 255710221.61819997,
+        "color": "green"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "CNSHA",
+        "weight": 2499691741.6425,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "HKHKG",
+        "weight": 3310360049.3803997,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "JPOSA",
+        "weight": 949449316.3036,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWKHH",
+        "endPort": "KRPUS",
+        "weight": 1108819085.6712,
+        "color": "yellow"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "CNSHA",
+        "weight": 2029097156.529,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "HKHKG",
+        "weight": 2106555633.533,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "JPOSA",
+        "weight": 1232602198.5079,
+        "color": "red"
+    },
+    {
+        "year": "23",
+        "month": "Sep",
+        "startPort": "TWTXG",
+        "endPort": "KRPUS",
+        "weight": 1457797381.7220001,
+        "color": "red"
+    }
+]
